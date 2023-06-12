@@ -8,6 +8,6 @@ from the earliest iteration of that lab.
 
 ## Hardware
 
- - Simple red box, with a solenoid installed to allow opening electronically.
+ - Simple red cash box, with a solenoid installed to allow opening electronically.
  - Modbus relay controller
  - TECHview LA-5351 RFID Access Card Reader
