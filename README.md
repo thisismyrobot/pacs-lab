@@ -12,6 +12,14 @@ from the earliest iteration of that lab.
 
 ![](img/inside.jpg)
 
+## Training areas
+
+ - Wiegand sniffing, replay, injection
+ - RFID fob cloning
+ - IR sniffing, replay, injection (the RFID reader can be programmed with IR)
+ - Modbus injection
+ - Wafer lock picking (not hard...)
+
 ## Hardware
 
  - Simple red cash box, with a solenoid installed to allow opening electronically.
