@@ -24,6 +24,7 @@ from the earliest iteration of that lab.
 
  - Wiegand sniffing, replay, injection
  - RFID fob cloning
+ - Wireless sniffing and replay
  - IR sniffing, replay, injection (the RFID reader can be programmed with IR)
  - Modbus injection
  - Wafer lock picking (not hard...)
@@ -33,3 +34,4 @@ from the earliest iteration of that lab.
  - Simple red cash box, with a solenoid installed to allow opening electronically.
  - Modbus relay controller
  - TECHview LA-5351 RFID Access Card Reader
+ - Generic 315Mhz Wireless Remote Control Switch
