@@ -12,13 +12,13 @@ from the earliest iteration of that lab.
 
 ![](img/wiegand.gif)
 
-## Bulid
+## Build
+
+![](img/inside.jpg)
 
 ![](img/iso.jpg)
 
 ![](img/top.jpg)
-
-![](img/inside.jpg)
 
 ## Training areas
 
