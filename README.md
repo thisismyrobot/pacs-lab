@@ -27,7 +27,7 @@ from the earliest iteration of that lab.
  - Wireless sniffing and replay
  - IR sniffing, replay, injection (the RFID reader can be programmed with IR)
  - Modbus injection
- - Wafer lock picking (not hard...)
+ - Wafer lock picking/raking (not hard...)
 
 ## Hardware
 
